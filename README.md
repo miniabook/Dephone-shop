@@ -4,7 +4,6 @@ Our mobile phone store specializes in selling smartphones from various top brand
 Welcome to Smart Mobile Store!
 
 
-Smart Mobile Stor
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
