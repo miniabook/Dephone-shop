@@ -1,76 +1,72 @@
 # Dephone-shop
 Our mobile phone store specializes in selling smartphones from various top brands, along with accessories such as chargers, cases, and screen protectors. We also provide repair services and trade-in options. Customer satisfaction is our top priority.
-<!DOCTYPE html>
+console.log("Welcome to Smart Mobile Store!");body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2196F3;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  color: #2196F3;
+}
+
+.products ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+  font-size: 14px;
+}<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My Mobile Store</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #007bff;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    .container {
-      padding: 20px;
-    }
-    .product {
-      background: white;
-      padding: 15px;
-      margin: 10px 0;
-      border-radius: 8px;
-      box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    }
-    .product h2 {
-      margin: 0;
-    }
-    footer {
-      background: #333;
-      color: white;
-      text-align: center;
-      padding: 15px;
-      margin-top: 30px;
-    }
-  </style>
+  <meta charset="UTF-8">
+  <title>Smart Mobile Store</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
   <header>
-    <h1>Welcome to ABC Mobile Store</h1>
-    <p>Best Phones at Affordable Prices</p>
+    <h1>Smart Mobile Store</h1>
+    <p>Your one-stop shop for the latest smartphones</p>
   </header>
 
-  <div class="container">
-    <div class="product">
-      <h2>iPhone 13 Black 128GB</h2>
-      <p>Condition: Used, Battery Health: 100%</p>
-      <p>Price: RM 1379</p>
-    </div>
+  <section class="about">
+    <h2>About Us</h2>
+    <p>Welcome to Smart Mobile Store! We offer a wide selection of new and second-hand smartphones at unbeatable prices. We also provide repair services and trade-ins.</p>
+  </section>
 
-    <div class="product">
-      <h2>Samsung Galaxy S21 Ultra</h2>
-      <p>Condition: New, 256GB</p>
-      <p>Price: RM 2999</p>
-    </div>
-
-    <div class="product">
-      <h2>Honor X5</h2>
-      <p>Condition: New, Budget-Friendly</p>
-      <p>Price: RM 499</p>
-    </div>
-  </div>
+  <section class="products">
+    <h2>Popular Products</h2>
+    <ul>
+      <li>iPhone 13 - From RM 1379</li>
+      <li>Samsung Galaxy S21 - From RM 1199</li>
+      <li>HONOR X9a - From RM 899</li>
+    </ul>
+  </section>
 
   <footer>
-    <p>Contact us: +60 123 456 789 | Facebook: @abcmobilestore</p>
+    <p>📍 Location: Kuala Lumpur, Malaysia</p>
+    <p>📞 Contact: +6012-3456789</p>
+    <p>📧 Email: smartmobilestore@gmail.com</p>
   </footer>
 
+  <script src="script.js"></script>
 </body>
 </html>
