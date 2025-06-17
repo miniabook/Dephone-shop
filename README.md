@@ -1,40 +1,10 @@
 # Dephone-shop
 Our mobile phone store specializes in selling smartphones from various top brands, along with accessories such as chargers, cases, and screen protectors. We also provide repair services and trade-in options. Customer satisfaction is our top priority.
 
-console.log("Welcome to Smart Mobile Store!");
+Welcome to Smart Mobile Store!
 
-header {
-  background-color: #2196F3;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
 
-section {
-  padding: 20px;
-}
-
-h2 {
-  color: #2196F3;
-}
-
-.products ul {
-  list-style-type: square;
-  padding-left: 20px;
-}
-
-footer {
-  background-color: #eee;
-  text-align: center;
-  padding: 15px;
-  margin-top: 30px;
-  font-size: 14px;
-}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Smart Mobile Store</title>
+Smart Mobile Stor
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
