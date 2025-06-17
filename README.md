@@ -1,5 +1,6 @@
 # Dephone-shop
 Our mobile phone store specializes in selling smartphones from various top brands, along with accessories such as chargers, cases, and screen protectors. We also provide repair services and trade-in options. Customer satisfaction is our top priority.
+
 console.log("Welcome to Smart Mobile Store!");
 body {
   font-family: Arial, sans-serif;
@@ -57,16 +58,16 @@ footer {
   <section class="products">
     <h2>Popular Products</h2>
     <ul>
-      <li>iPhone 13 - From RM 1379</li>
-      <li>Samsung Galaxy S21 - From RM 1199</li>
-      <li>HONOR X9a - From RM 899</li>
+      <li>iPhone 13 256GB- From RM 1379</li>
+      <li>iPhone 14 128GB - From RM 1659</li>
+      <li>Redmi14C - From RM 449</li>
     </ul>
   </section>
 
   <footer>
-    <p>📍 Location: Kuala Lumpur, Malaysia</p>
-    <p>📞 Contact: +6012-3456789</p>
-    <p>📧 Email: smartmobilestore@gmail.com</p>
+    <p>📍 Location: 49a,Jalan Setia Jaya Utama,Taman Setia Jaya,Batu Pahat,Johor</p>
+    <p>📞 Contact: +6017 628 4628</p>
+    <p>📧 Email: alsonqisheng@gmail.com</p>
   </footer>
 
   <script src="script.js"></script>
