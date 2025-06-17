@@ -2,13 +2,6 @@
 Our mobile phone store specializes in selling smartphones from various top brands, along with accessories such as chargers, cases, and screen protectors. We also provide repair services and trade-in options. Customer satisfaction is our top priority.
 
 console.log("Welcome to Smart Mobile Store!");
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
 
 header {
   background-color: #2196F3;
@@ -70,6 +63,3 @@ footer {
     <p>📧 Email: alsonqisheng@gmail.com</p>
   </footer>
 
-  <script src="script.js"></script>
-</body>
-</html>
