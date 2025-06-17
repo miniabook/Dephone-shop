@@ -20,10 +20,11 @@ Welcome to Smart Mobile Store!
   <section class="products">
     <h2>Popular Products</h2>
     <ul>
-      <li>iPhone 13 256GB- From RM 1379</li>
+      <li>iPhone 13 256GB - From RM 1379</li>
       <li>iPhone 14 128GB - From RM 1659</li>
-      <li>Redmi14C - From RM 449</li>
-    </ul>
+      <li>Redmi14C 8+256GB - From RM 449</li>
+      <li>Redmi Note13 5G 8+256GB From RM659</li>
+      </ul>
   </section>
 
   <footer>
