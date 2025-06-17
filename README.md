@@ -25,7 +25,7 @@ Welcome to Smart Mobile Store!
       <li>Redmi14C 8+256GB - From RM 449</li>
       <li>Redmi Note13 5G 8+256GB From RM659</li>
       </ul>
-    ![]
+    ![](IMG_20250617_161033.jpg)
   </section>
 
   <footer>
